@@ -4,6 +4,7 @@
  * 
  * Two funcions are given, for the two cases.
  * 
+ * Ive introduced this text to make a different commit to github.
  */
 
 #include <stdio.h>
